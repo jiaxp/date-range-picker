@@ -1,18 +1,17 @@
-# date-rarnge-picker
+# date-range-picker
 
-> 基于element-ui的时间区间时间组件
+> 基于element-ui的时间区间选择组件
 
-## Build Setup
+## Install
 
 ``` bash
 # install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
+npm install date-range-picker-cs --save
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##### Use
+``` bash
+import DateRangePicker from 'date-range-picker-cs'
+
+Vue.use(DateRangePicker);
+```

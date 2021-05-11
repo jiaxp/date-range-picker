@@ -1,7 +1,7 @@
 {
-  "name": "date-rarnge-picker",
-  "description": "基于element-ui的时间区间时间组件",
-  "version": "1.0.0",
+  "name": "date-rarnge-picker-cs",
+  "description": "基于element-ui的时间区间选择组件",
+  "version": "1.0.1",
   "author": "贾晓朋 <jiaxp3@lenovo.com>",
   "license": "MIT",
   "private": false,
