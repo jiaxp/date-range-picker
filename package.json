@@ -1,7 +1,7 @@
 {
   "name": "date-range-picker-cs",
   "description": "基于element-ui的时间区间选择组件",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "贾晓朋 <jiaxp3@lenovo.com>",
   "license": "MIT",
   "private": false,

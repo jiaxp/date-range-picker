@@ -141,11 +141,11 @@ export default {
 <style lang="scss" scoped>
   .date-range-picker {
     > .el-date-editor {
-      width: 187px;
+      width: 192px;
     }
 
     > .split {
-      padding: 0 3px;
+      padding: 0px;
       font-size: 12px;
       color: #303133;
     }
