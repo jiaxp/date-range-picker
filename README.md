@@ -8,7 +8,7 @@
 npm install date-range-picker-cs --save
 ```
 
-### Use
+### Usage
 ``` bash
 import DateRangePicker from 'date-range-picker-cs'
 
